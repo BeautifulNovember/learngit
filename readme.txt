@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick.
 Small test.
 Creating a new branch is quick and simple.
+branch management strategy.
